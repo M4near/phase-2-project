@@ -3,62 +3,62 @@
     {
       "id": 1,
       "name": "Sailor Moon",
-      "image": "public/images/Sailor Moon.png",
-      "alter-ego": "Usagi Tsukino"
+      "image": "images/Sailor Moon.png",
+      "alterEgo": "Usagi Tsukino"
     },
     {
       "id": 2,
       "name": "Tuxedo Mask",
-      "image": "public/images/Tuxedo Mask.png",
-      "alter-ego": "Mamoru Chiba"
+      "image": "images/Tuxedo Mask.png",
+      "alterEgo": "Mamoru Chiba"
     },
     {
       "id": 3,
       "name": "Sailor Mercury",
-      "image": "public/images/Sailor Mercury.png",
-      "alter-ego": "Ami Mizuno"
+      "image": "images/Sailor Mercury.png",
+      "alterEgo": "Ami Mizuno"
     },
     {
       "id": 4,
       "name": "Sailor Venus",
-      "image": "public/images/Sailor Venus.png",
-      "alter-ego": "Minako Aino"
+      "image": "images/Sailor Venus.png",
+      "alterEgo": "Minako Aino"
     },
     {
       "id": 5,
       "name": "Sailor Mars",
-      "image": "public/images/Sailor Mars.png",
-      "alter-ego": "Rei Hino"
+      "image": "images/Sailor Mars.png",
+      "alterEgo": "Rei Hino"
     },
     {
       "id": 6,
       "name": "Sailor Jupiter",
-      "image": "public/images/Sailor Jupiter.png",
-      "alter-ego": "Makoto Kino"
+      "image": "images/Sailor Jupiter.png",
+      "alterEgo": "Makoto Kino"
     },
     {
       "id": 7,
       "name": "Sailor Saturn",
-      "image": "public/images/Sailor Saturn.png",
-      "alter-ego": "Hotaru Tomoe"
+      "image": "images/Sailor Saturn.png",
+      "alterEgo": "Hotaru Tomoe"
     },
     {
       "id": 8,
       "name": "Sailor Uranus",
-      "image": "public/images/Sailor Uranus.png",
-      "alter-ego": "Haruka Tenou"
+      "image": "images/Sailor Uranus.png",
+      "alterEgo": "Haruka Tenou"
     },
     {
       "id": 9,
       "name": "Sailor Neptune",
-      "image": "public/images/Sailor Neptune.png",
-      "alter-ego": "Michiru Kaioh"
+      "image": "images/Sailor Neptune.png",
+      "alterEgo": "Michiru Kaioh"
     },
     {
       "id": 10,
       "name": "Sailor Pluto",
-      "image": "public/images/Sailor Pluto.png",
-      "alter-ego": "Setsuna Meioh"
+      "image": "images/Sailor Pluto.png",
+      "alterEgo": "Setsuna Meioh"
     }
   ]
 }

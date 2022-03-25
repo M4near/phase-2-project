@@ -1,10 +1,31 @@
-import React from "react";
-import CharacterCard from "./CharacterCard";
+import React, {useState, useEffect} from "react";
+import CharacterList from "./CharacterList";
+import FeatureCharacter from "./FeatureCharacter"
 
 function CharacterContainer() {
+    
+    const [characters, setCharacters] = useState([]);
+
+    function fetchCharacters() {
+        fetch ('http://localhost:6001/characters')
+        .then(resp => resp.json())
+        .then(characterData => setCharacters(characterData))
+    }
+
+    
+    useEffect(fetchCharacters, []);
+    
+
 
     return (
-        <CharacterCard />
+        <div>
+            <div>
+                <FeatureCharacter />
+            </div>
+            <ul className="cards">
+                <CharacterList characters={characters}/>
+            </ul>
+        </div>
     );
 }
 

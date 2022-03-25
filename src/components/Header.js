@@ -1,10 +1,10 @@
 import React from "react";
 
 function Header() {
-    
+
     return (
         <header>
-            <h1>Hello!</h1>
+            <h1>Sailor Moon!</h1>
         </header>
     );    
 }

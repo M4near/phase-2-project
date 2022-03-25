@@ -2,8 +2,7 @@ import React from "react";
 import Header from "./Header";
 import CharacterContainer from "./CharacterContainer"
 
-function App() {
-
+function App() {  
 
   return (
     <div>
