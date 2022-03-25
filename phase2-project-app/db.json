@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Sailor Moon",
+      "image": "src/images/Sailor Moon.png",
+      "alter-ego": "Usagi Tsukino"
+    },
+    {
+      "id": 2,
+      "name": "Tuxedo Mask",
+      "image": "src/images/Tuxedo Mask.png",
+      "alter-ego": "Mamoru Chiba"
+    },
+    {
+      "id": 3,
+      "name": "Sailor Mercury",
+      "image": "src/images/Sailor Mercury.png",
+      "alter-ego": "Ami Mizuno"
+    },
+    {
+      "id": 4,
+      "name": "Sailor Venus",
+      "image": "src/images/Sailor Venus.png",
+      "alter-ego": "Minako Aino"
+    },
+    {
+      "id": 5,
+      "name": "Sailor Mars",
+      "image": "src/images/Sailor Mars.png",
+      "alter-ego": "Rei Hino"
+    },
+    {
+      "id": 6,
+      "name": "Sailor Jupiter",
+      "image": "src/images/Sailor Jupiter.png",
+      "alter-ego": "Makoto Kino"
+    },
+    {
+      "id": 7,
+      "name": "Sailor Saturn",
+      "image": "src/images/Sailor Saturn.png",
+      "alter-ego": "Usagi Tsukino"
+    },
+    {
+      "id": 8,
+      "name": "Sailor Uranus",
+      "image": "src/images/Sailor Uranus.png",
+      "alter-ego": "Usagi Tsukino"
+    },
+    {
+      "id": 9,
+      "name": "Sailor Neptune",
+      "image": "src/images/Sailor Neptune.png",
+      "alter-ego": "Usagi Tsukino"
+    },
+    {
+      "id": 10,
+      "name": "Sailor Pluto",
+      "image": "src/images/Sailor Pluto.png",
+      "alter-ego": "Usagi Tsukino"
+    }
+  ]
+}
