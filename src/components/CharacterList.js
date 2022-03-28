@@ -9,7 +9,7 @@ function CharacterList({characters}) {
     ))
 
     return (
-        <div>
+        <div id="character-list">
             {renderCharacters}
         </div>
     );

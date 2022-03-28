@@ -6,21 +6,40 @@ h1 {
   text-align: center;
 }
 
-.cards {
-  list-style: none;
+#character-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .card {
   list-style: none;
-  float: left;
-  margin: 20px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  height: auto;
+  width: 20%;
 }
 
 .card img {
+  text-align: center;
   width: auto;
   height: 400px;
 }
 
 .card h4 {
   text-align: center;
+}
+
+#feature-character {
+  display: block;
+  width: 100%;
+}
+
+#feature-character .card {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }

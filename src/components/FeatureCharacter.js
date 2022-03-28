@@ -12,7 +12,7 @@ function FeatureCharacter({characters}) {
     console.log(randomCharacter)
     
     return (
-        <div>
+        <div id="feature-character">
             {!randomCharacter && <div>Loading...</div>}
             {randomCharacter && 
             <li className="card">
