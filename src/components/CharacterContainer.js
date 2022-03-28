@@ -20,7 +20,7 @@ function CharacterContainer() {
     return (
         <div>
             <div>
-                <FeatureCharacter />
+                <FeatureCharacter characters={characters}/>
             </div>
             <ul className="cards">
                 <CharacterList characters={characters}/>
