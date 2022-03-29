@@ -3,11 +3,19 @@ import React, {useEffect, useState} from "react";
 
 function FeatureCharacter({characters}) {
     const [randomCharacters, setRandomCharacters] = useState([]);
+
+  function fetchRandomCharacters() {
+    fetch ('http://localhost:6001/characters')
+    .then(resp => resp.json())
+    .then(characterData => setRandomCharacters(characterData))
+  }
+
+  useEffect(fetchRandomCharacters, []);
     
-    const randomIndex = Math.floor(Math.random() * characters.length);
-    console.log(characters)
+    const randomIndex = Math.floor(Math.random() * randomCharacters.length);
+    console.log(randomCharacters)
     console.log (randomIndex)
-    const randomCharacter = characters[randomIndex];
+    const randomCharacter = randomCharacters[randomIndex];
 
     console.log(randomCharacter)
     

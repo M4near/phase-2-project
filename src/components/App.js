@@ -5,15 +5,7 @@ import CharacterContainer from "./CharacterContainer";
 import FeatureCharacter from "./FeatureCharacter";
 
 function App() {  
-  const [characters, setCharacters] = useState([]);
-
-  function fetchCharacters() {
-    fetch ('http://localhost:6001/characters')
-    .then(resp => resp.json())
-    .then(characterData => setCharacters(characterData))
-  }
-
-  useEffect(fetchCharacters, []);
+  
 
   return (
     <div className="App">
@@ -21,7 +13,7 @@ function App() {
       <Switch>
       <Route exact path="/">
         <FeatureCharacter characters={characters}/>
-        <CharacterContainer characters={characters}/>
+        <CharacterContainer characters={characters} setCharacters={setCharacters}/>
         </Route>
       </Switch>
     </div>
