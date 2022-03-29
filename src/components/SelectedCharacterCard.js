@@ -1,12 +1,7 @@
 import React from "react";
 
-function CharacterCard({character}) {
+function SelectedCharacterCard({character}) {
     const {id, name, image, alterEgo} = character
-
-    function handleClick(e){
-        
-    }
-
 
     return (
         <li className="card">
@@ -17,11 +12,9 @@ function CharacterCard({character}) {
             <span>
                 <h4>{alterEgo}</h4>
             </span>  
-            <span>
-                <button onClick={handleClick}>See More Info!</button>
-            </span>
+            
         </li>
     );
 }
 
-export default CharacterCard;
+export default SelectedCharacterCard;

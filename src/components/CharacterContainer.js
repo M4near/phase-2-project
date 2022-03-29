@@ -1,27 +1,18 @@
 import React, {useState, useEffect} from "react";
 import CharacterList from "./CharacterList";
-import FeatureCharacter from "./FeatureCharacter"
+import Search from "./Search";
 
-function CharacterContainer() {
+function CharacterContainer({characters}) {
     
-    const [characters, setCharacters] = useState([]);
-
-    function fetchCharacters() {
-        fetch ('http://localhost:6001/characters')
-        .then(resp => resp.json())
-        .then(characterData => setCharacters(characterData))
-    }
-
+    const [query, setQuery] = useState("");
+  
     
-    useEffect(fetchCharacters, []);
-    
-
-
+   
     return (
-        <div id="character-container">
-                <FeatureCharacter characters={characters}/>        
+        <div id="character-container">     
+                <Search query={query} setQuery={setQuery}/>  
             <ul className="cards">
-                <CharacterList characters={characters}/>
+                <CharacterList query={query} setQuery={setQuery} characters={characters}/>
             </ul>
         </div>
     );

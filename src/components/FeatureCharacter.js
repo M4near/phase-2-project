@@ -22,7 +22,10 @@ function FeatureCharacter({characters}) {
             </span>
             <span>
                 <h4>{randomCharacter.alterEgo}</h4>
-            </span>            
+            </span> 
+            <span>
+                <button>See More Info!</button>
+            </span>           
             </li>}
         </div>
     );

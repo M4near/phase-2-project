@@ -4,61 +4,81 @@
       "id": 1,
       "name": "Sailor Moon",
       "image": "images/Sailor Moon.png",
-      "alterEgo": "Usagi Tsukino"
+      "alterEgo": "Usagi Tsukino",
+      "favorite": false,
+      "gif": ""
     },
     {
       "id": 2,
       "name": "Tuxedo Mask",
       "image": "images/Tuxedo Mask.png",
-      "alterEgo": "Mamoru Chiba"
+      "alterEgo": "Mamoru Chiba",
+      "favorite": false,
+      "gif": ""
     },
     {
       "id": 3,
       "name": "Sailor Mercury",
       "image": "images/Sailor Mercury.png",
-      "alterEgo": "Ami Mizuno"
+      "alterEgo": "Ami Mizuno",
+      "favorite": false,
+      "gif": ""
     },
     {
       "id": 4,
       "name": "Sailor Venus",
       "image": "images/Sailor Venus.png",
-      "alterEgo": "Minako Aino"
+      "alterEgo": "Minako Aino",
+      "favorite": false,
+      "gif": ""
     },
     {
       "id": 5,
       "name": "Sailor Mars",
       "image": "images/Sailor Mars.png",
-      "alterEgo": "Rei Hino"
+      "alterEgo": "Rei Hino",
+      "favorite": false,
+      "gif": ""
     },
     {
       "id": 6,
       "name": "Sailor Jupiter",
       "image": "images/Sailor Jupiter.png",
-      "alterEgo": "Makoto Kino"
+      "alterEgo": "Makoto Kino",
+      "favorite": false,
+      "gif": ""
     },
     {
       "id": 7,
       "name": "Sailor Saturn",
       "image": "images/Sailor Saturn.png",
-      "alterEgo": "Hotaru Tomoe"
+      "alterEgo": "Hotaru Tomoe",
+      "favorite": false,
+      "gif": ""
     },
     {
       "id": 8,
       "name": "Sailor Uranus",
       "image": "images/Sailor Uranus.png",
-      "alterEgo": "Haruka Tenou"
+      "alterEgo": "Haruka Tenou",
+      "favorite": false,
+      "gif": ""
     },
     {
       "id": 9,
       "name": "Sailor Neptune",
       "image": "images/Sailor Neptune.png",
-      "alterEgo": "Michiru Kaioh"
+      "alterEgo": "Michiru Kaioh",
+      "favorite": false,
+      "gif": ""
     },
     {
       "id": 10,
       "name": "Sailor Pluto",
       "image": "images/Sailor Pluto.png",
-      "alterEgo": "Setsuna Meioh"
+      "alterEgo": "Setsuna Meioh",
+      "favorite": false,
+      "gif": ""
     }
   ]
 }
