@@ -29,7 +29,7 @@ function FeatureCharacter({characters}) {
                 <h4>{randomCharacter.name}</h4>
             </span> 
             <div>
-                <button id='featureInfoButton' className='button'>See More Info!</button>
+                {/* <button id='featureInfoButton' className='button'>See More Info!</button> */}
             </div>           
             </li>}
         </div>

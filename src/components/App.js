@@ -4,6 +4,8 @@ import Navbar from "./Navbar";
 import CharacterContainer from "./CharacterContainer";
 import FeatureCharacter from "./FeatureCharacter";
 import FavoritesList from "./FavoritesCard";
+import CharacterList from "./CharacterList";
+import SelectedCharacterCard from "./SelectedCharacterCard";
 
 function App() {  
   
@@ -12,12 +14,12 @@ function App() {
     <div className="App">
       <Navbar />
       <Switch>
-        <Route exact path="/">
+      <Route exact path="/">
           <FeatureCharacter />
           <CharacterContainer  />
         </Route>
-        <Route  path="/favorites" component={FavoritesList}>
-          <FavoritesList />
+        <Route path="/selectedCharacter" element={<SelectedCharacterCard/>}/>
+        <Route  path="/favorites" element={<FavoritesList />}>
         </Route>
       </Switch>
     </div>

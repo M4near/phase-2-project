@@ -1,13 +1,14 @@
-import React from "react";
+import React, {useState} from "react";
 import CharacterCard from "./CharacterCard";
 import SelectedCharacterCard from "./SelectedCharacterCard";
 
 function CharacterList({characters, query, setQuery, setCharacters}) {
+  const [selectedCharacter, setSelectedCharacter] = useState("")
 
     const renderCharacters = characters
     .filter((character) => character.name.toLowerCase().includes(query.toLowerCase()))
     .map((character) => (
-        <CharacterCard key={character.id} character={character} setCharacters={setCharacters} handleUpdateCharacter={handleUpdateCharacter}/> 
+        <CharacterCard key={character.id} character={character} setCharacters={setCharacters} handleUpdateCharacter={handleUpdateCharacter} setSelectedCharacter={setSelectedCharacter}/> 
     ));
 
     function handleUpdateCharacter(updatedCharacterCard) {
@@ -26,7 +27,7 @@ function CharacterList({characters, query, setQuery, setCharacters}) {
         <ul id="character-list">
             {renderCharacters}
         </ul>
-        <SelectedCharacterCard characters={characters}/>
+        <SelectedCharacterCard characters={characters} selectedCharacter={selectedCharacter}/>
       </div>
     );
 }

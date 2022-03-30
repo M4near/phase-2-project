@@ -6,7 +6,9 @@
       "image": "images/Sailor Moon.png",
       "alterEgo": "Usagi Tsukino",
       "favorite": true,
-      "gif": "https://c.tenor.com/54UoAky8vOYAAAAM/sailor-moon-transformation.gif"
+      "gif": "https://c.tenor.com/54UoAky8vOYAAAAM/sailor-moon-transformation.gif",
+      "description": "",
+      "firstEpisode": ""
     },
     {
       "id": 2,
@@ -14,7 +16,9 @@
       "image": "images/Tuxedo Mask.png",
       "alterEgo": "Mamoru Chiba",
       "favorite": false,
-      "gif": ""
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
     },
     {
       "id": 3,
@@ -22,7 +26,9 @@
       "image": "images/Sailor Mercury.png",
       "alterEgo": "Ami Mizuno",
       "favorite": false,
-      "gif": ""
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
     },
     {
       "id": 4,
@@ -30,7 +36,9 @@
       "image": "images/Sailor Venus.png",
       "alterEgo": "Minako Aino",
       "favorite": false,
-      "gif": ""
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
     },
     {
       "id": 5,
@@ -38,7 +46,9 @@
       "image": "images/Sailor Mars.png",
       "alterEgo": "Rei Hino",
       "favorite": false,
-      "gif": ""
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
     },
     {
       "id": 6,
@@ -46,7 +56,9 @@
       "image": "images/Sailor Jupiter.png",
       "alterEgo": "Makoto Kino",
       "favorite": false,
-      "gif": ""
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
     },
     {
       "id": 7,
@@ -62,7 +74,9 @@
       "image": "images/Sailor Uranus.png",
       "alterEgo": "Haruka Tenou",
       "favorite": false,
-      "gif": ""
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
     },
     {
       "id": 9,
@@ -70,15 +84,19 @@
       "image": "images/Sailor Neptune.png",
       "alterEgo": "Michiru Kaioh",
       "favorite": false,
-      "gif": ""
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
     },
     {
       "id": 10,
       "name": "Sailor Pluto",
       "image": "images/Sailor Pluto.png",
       "alterEgo": "Setsuna Meioh",
-      "favorite": false,
-      "gif": ""
+      "favorite": true,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
     },
     {
       "id": 11,
@@ -86,7 +104,9 @@
       "image": "images/Sailor Chibi Usa.png",
       "alterEgo": "Chibiusa Tsukina",
       "favorite": false,
-      "gif": ""
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
     },
     {
       "id": 12,
@@ -94,7 +114,9 @@
       "image": "images/Luna and Artemis.png",
       "alterEgo": "Luna & Artemis",
       "favorite": false,
-      "gif": ""
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
     }
   ]
 }
