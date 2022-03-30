@@ -1,10 +1,68 @@
 body {
-  font-family: "Playfair Display", serif;
+  background-image: url(https://i.pinimg.com/originals/0d/ff/12/0dff12883e37d102981a1cbf01401a64.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding: 0px;
+  margin: 0px;
 }
 
-h1 {
+.header {
+  background: rgb(132,77,223, 0.8);
+  background: linear-gradient(259deg, rgba(132,77,223,0.8) 20%, rgba(176,113,252,0.8) 40%, rgba(176,113,252,0.8) 60%, rgba(132,77,223,0.8) 80%);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0px;
+  border-bottom: 2px solid white;
+}
+
+#homeButtonContainer {
+  text-align: right;
+  font-size: larger;
+  flex: 1;
+  order: 1;
+}
+
+#home {
+  padding: 15px;
+}
+
+#favoritesButtonContainer {
+  text-align: left;
+  font-size: larger;
+  flex: 1;
+  order: 3;
+}
+
+#favorites {
+  padding: 15px;  
+}
+
+.searchbar {
   text-align: center;
-  position: sticky;
+}
+
+
+h1 {
+  background: url(https://media2.giphy.com/media/l3V0HEiQoSPsfkity/giphy.gif?cid=790b76118e6eec7210ddc234154a3e38d5036db0aa971f25&rid=giphy.gif&ct=g);
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 900;
+  font-size: 100px;
+  text-align: center;
+  flex: 4;
+  margin: 0px;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+  -webkit-filter: drop-shadow(5px 5px 0 rgb(206, 52, 180, 0.8))
+                  drop-shadow(-5px -5px 0 rgb(206, 52, 180, 0.8));
+  filter: drop-shadow(5px 5px 0 rgb(206, 52, 180, 0.8)) 
+          drop-shadow(-5px -5px 0 rgb(206, 52, 180, 0.8));
+  order: 2;
 }
 
 #character-list {
@@ -15,32 +73,140 @@ h1 {
 }
 
 .card {
+  background-color: rgb(81, 40, 148, 0.85);
+  border: 20px solid rgba(81, 40, 148, 0.5);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: justify;
   list-style: none;
-  margin-bottom: 100px;
-  margin-top: 50px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin: 60px;
+  padding: 25px;
   height: auto;
-  width: 20%;
+  width: auto;
 }
 
-.card img {
-  text-align: center;
+#featureCharacter {
+  background-color: rgb(250, 250, 250, 0.45);
+  border: 20px solid rgba(250, 250, 250, 0.30);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: justify;
+  list-style: none;
+  margin: 30px;
+  padding: 25px;
+  height: auto;
+  width: auto;
+}
+
+#featureCharacter img {
   width: auto;
   height: 400px;
 }
 
-.card h4 {
-  text-align: center;
+#featureCharacter h4 {
+  color:rgb(81, 40, 148);
 }
 
-#feature-character {
-  display: block;
+.card img {
+  margin: 5px;
+  width: auto;
+  height: 300px;
+  -webkit-filter: drop-shadow(5px 5px 0 rgb(206, 52, 180, 0.8))
+                  drop-shadow(-5px -5px 0 rgba(230, 103, 208, 0.8));
+  filter: drop-shadow(5px 5px 0 rgb(206, 52, 180, 0.8)) 
+          drop-shadow(-5px -5px 0 rgba(230, 103, 208, 0.8));
+}
+
+.card h4 {
+  font-size: larger;
+  color: white;
+  text-align: center;
+  padding: 0px;
+  margin: 5px;
+}
+
+.searchbar {
+  text-align: center;
+  background-color:rgb(221, 128, 230);
+  padding: 5px;
+  border: 1px solid white;
+}
+
+.searchbar .search {
+  text-align: center;
+  background-color: rgb(235, 182, 240);
+  color:black;
+  border: 0px solid white;
+  border-radius: 5px;
+  width: 500px;
+  font-size: larger;
+}
+
+::placeholder {
+  color: rgb(123, 71, 206);
+}
+
+#favorite-button {
+  width: 40px;
+  font-size: 20px;
+  padding: 3px;
+}
+
+#info-button {
+  text-align: center;
+  margin: auto;
+}
+
+#featureInfoButton {
+  text-align: center;
+  margin: 15px;
+}
+
+#infoButtonContainer {
+  text-align: center;
+  margin: 15px;
+}
+
+#featureCharacterContainer {
+  background: url(https://media4.giphy.com/media/uqe7fb2xV4d68/giphy.gif?cid=790b7611e72292963be97dbb8bdbd78cabac4e4e21fa6056&rid=giphy.gif&ct=g);
+  /* background: url(https://media4.giphy.com/media/tBb19f3bR3ECInPavao/giphy.gif?cid=ecf05e47zg4y688xmjos88umrznplk2u59kghxyzqhy43lv2&rid=giphy.gif&ct=g); */
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
   width: 100%;
 }
 
-#feature-character .card {
+
+.button {
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding: 5px 10px;
+  font-size: 15px;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: rgb(206, 52, 180, 0.8);
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 5px rgb(247, 115, 225, 0.8);
+  transition: all .2s ease-in-out;
+}
+
+.button:hover {
+  /* background-color: rgb(81, 40, 148); */
+  border: none;
+  border-radius: 15px;
+  /* box-shadow: 0 5px rgb(168, 114, 255); */
+  transform: scale(1.15);
+}
+
+.button:active {
+  background-color: rgb(81, 40, 148);
+  box-shadow: 0 0px;
+  transform: translateY(4px);
 }

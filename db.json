@@ -79,6 +79,22 @@
       "alterEgo": "Setsuna Meioh",
       "favorite": false,
       "gif": ""
+    },
+    {
+      "id": 11,
+      "name": "Sailor Chibi Moon",
+      "image": "images/Sailor Chibi Usa.png",
+      "alterEgo": "Chibiusa Tsukina",
+      "favorite": false,
+      "gif": ""
+    },
+    {
+      "id": 12,
+      "name": "Luna & Artemis",
+      "image": "images/Luna and Artemis.png",
+      "alterEgo": "Luna & Artemis",
+      "favorite": false,
+      "gif": ""
     }
   ]
 }

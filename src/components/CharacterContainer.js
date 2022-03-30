@@ -19,9 +19,9 @@ function CharacterContainer() {
     return (
         <div id="character-container">     
                 <Search query={query} setQuery={setQuery}/>  
-            <ul className="cards">
+            <div className="cards">
                 <CharacterList query={query} setQuery={setQuery} characters={characters} setCharacters={setCharacters}/>
-            </ul>
+            </div>
         </div>
     );
 }

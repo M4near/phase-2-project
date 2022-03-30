@@ -27,17 +27,14 @@ function CharacterCard({character, setCharacters, handleUpdateCharacter}) {
 
     return (
         <li className="card">
-            <button onClick={handleFavorite}>{buttonText}</button>
+            <button className='button' id='favorite-button' onClick={handleFavorite}>{buttonText}</button>
             <img src={image} alt={name} />
-            <span>
+            <div>
                 <h4>{name}</h4>
-            </span>
-            <span>
-                <h4>{alterEgo}</h4>
-            </span>  
-            <span>
-                <button onClick={handleClick}>See More Info!</button>
-            </span>
+            </div>  
+            <div id='infoButtonContainer'>
+                <button className='button' id='infoButton' onClick={handleClick}>See More Info!</button>
+            </div>
             {/* <img id="gif" src={gif}/> */}
         </li>
     );

@@ -6,8 +6,9 @@ function Search({query, setQuery}) {
     <div className="searchbar" >
       <input
         type="text"
+        className="search"
         id="search"
-        placeholder="search for your sailor"
+        placeholder="search characters"
         onChange={(e) => setQuery(e.target.value)}
       />
     </div>

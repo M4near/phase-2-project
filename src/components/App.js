@@ -12,8 +12,8 @@ function App() {
       <Navbar />
       <Switch>
       <Route exact path="/">
-        <FeatureCharacter characters={characters}/>
-        <CharacterContainer characters={characters} setCharacters={setCharacters}/>
+        <FeatureCharacter />
+        <CharacterContainer  />
         </Route>
       </Switch>
     </div>

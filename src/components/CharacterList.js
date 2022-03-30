@@ -23,9 +23,9 @@ function CharacterList({characters, query, setQuery, setCharacters}) {
     }
 
     return (
-        <div id="character-list">
+        <ul id="character-list">
             {renderCharacters}
-        </div>
+        </ul>
     );
 }
 

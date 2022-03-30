@@ -20,20 +20,17 @@ function FeatureCharacter({characters}) {
     console.log(randomCharacter)
     
     return (
-        <div id="feature-character">
+        <div id="featureCharacterContainer">
             {!randomCharacter && <div>Loading...</div>}
             {randomCharacter && 
-            <li className="card">
+            <li id='featureCharacter' className="card">
             <img src={randomCharacter.image} alt={randomCharacter.name} />
             <span>
                 <h4>{randomCharacter.name}</h4>
-            </span>
-            <span>
-                <h4>{randomCharacter.alterEgo}</h4>
             </span> 
-            <span>
-                <button>See More Info!</button>
-            </span>           
+            <div>
+                <button id='featureInfoButton' className='button'>See More Info!</button>
+            </div>           
             </li>}
         </div>
     );
