@@ -2,10 +2,9 @@ import React, {useState} from "react";
 
 function CharacterCard({character, setCharacters, handleUpdateCharacter}) {
     const {id, name, image, alterEgo, gif} = character
-    const [favorite, setFavorite] = useState(false);
-
-    function handleClick(e){
-        
+    
+    function handleClick(event){
+      return event.target
     }
 
     function handleFavorite() {

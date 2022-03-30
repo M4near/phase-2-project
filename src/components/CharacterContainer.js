@@ -1,6 +1,8 @@
 import React, {useState, useEffect} from "react";
 import CharacterList from "./CharacterList";
 import Search from "./Search";
+import FavoritesList from "./FavoritesList";
+import SelectedCharacterCard from "./SelectedCharacterCard";
 
 function CharacterContainer() {
     const [query, setQuery] = useState("");
@@ -21,6 +23,9 @@ function CharacterContainer() {
                 <Search query={query} setQuery={setQuery}/>  
             <div className="cards">
                 <CharacterList query={query} setQuery={setQuery} characters={characters} setCharacters={setCharacters}/>
+            </div>
+            <div> 
+                <FavoritesList characters={characters} setCharacters={setCharacters}/>
             </div>
         </div>
     );

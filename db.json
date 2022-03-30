@@ -5,7 +5,7 @@
       "name": "Sailor Moon",
       "image": "images/Sailor Moon.png",
       "alterEgo": "Usagi Tsukino",
-      "favorite": false,
+      "favorite": true,
       "gif": "https://c.tenor.com/54UoAky8vOYAAAAM/sailor-moon-transformation.gif"
     },
     {

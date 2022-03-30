@@ -1,17 +1,16 @@
 import React from "react";
 import CharacterCard from "./CharacterCard";
+import SelectedCharacterCard from "./SelectedCharacterCard";
 
 function CharacterList({characters, query, setQuery, setCharacters}) {
 
-    console.log(characters)
     const renderCharacters = characters
     .filter((character) => character.name.toLowerCase().includes(query.toLowerCase()))
     .map((character) => (
-        <CharacterCard key={character.id} character={character} setCharacters={setCharacters} handleUpdateCharacter={handleUpdateCharacter}/>
+        <CharacterCard key={character.id} character={character} setCharacters={setCharacters} handleUpdateCharacter={handleUpdateCharacter}/> 
     ));
 
     function handleUpdateCharacter(updatedCharacterCard) {
-        console.log("Favorited", updatedCharacterCard)
         const updatedCharacterCards = characters.map((character) => {
             if (character.id === updatedCharacterCard.id) {
               return updatedCharacterCard;
@@ -23,9 +22,12 @@ function CharacterList({characters, query, setQuery, setCharacters}) {
     }
 
     return (
+      <div>
         <ul id="character-list">
             {renderCharacters}
         </ul>
+        <SelectedCharacterCard characters={characters}/>
+      </div>
     );
 }
 
