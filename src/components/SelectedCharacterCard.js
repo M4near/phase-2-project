@@ -1,30 +1,23 @@
-import React, {useState, useEffect} from "react";
+import React from "react";
 
 function SelectedCharacterCard({selectedCharacter}) {
-    const {id, name, image, alterEgo, description, firstEpisode,gif} = selectedCharacter
+    const {name, image, alterEgo, description, firstEpisode, gif} = selectedCharacter
 
     console.log("Selected CHaracter Component")
 
     return (
-        <li className="card">
-            <img src={image} alt={name} />
-            <span>
-                <h4>{name}</h4>
-            </span>
-            <span>
-                <h4>{alterEgo}</h4>
-            </span>  
-            <span>
+        <div className="selectedCard">
+            <div id='selectedCharacterImage'>
+                <img src={image} alt={name} />
+            </div>
+            <div id='selectedCharacterDetails'>
+                <h2 id="selectedName">{name}</h2>
+                <h3>Alter Ego: {alterEgo}</h3>
                 <h4>{description}</h4>
-            </span>  
-            <span>
-                <h4>{firstEpisode}</h4>
-            </span> 
-            <span>
-                <img src={gif}/>
-            </span> 
-            
-        </li>
+                <h5>First Episode: {firstEpisode}</h5>
+                <img id="characterGif" src={gif} alt="character gif"/>
+            </div>
+        </div>
     );
 }
 

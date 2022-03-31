@@ -5,9 +5,9 @@
       "name": "Sailor Moon",
       "image": "images/Sailor Moon.png",
       "alterEgo": "Usagi Tsukino",
-      "favorite": true,
+      "favorite": false,
       "gif": "https://c.tenor.com/54UoAky8vOYAAAAM/sailor-moon-transformation.gif",
-      "description": "She is a sailor on the moon!",
+      "description": "Usagi Tsukino is the Sailor Guardian of love and justice, Sailor Moon. Originally from a prosperous civilization on the Moon known as the Moon Kingdom, she was reborn on Earth and re-awoke as the leader of the Sailor Senshi",
       "firstEpisode": "The Crybaby: Usagi's Beautiful Transformation"
     },
     {
@@ -17,8 +17,8 @@
       "alterEgo": "Mamoru Chiba",
       "favorite": true,
       "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "description": "Mamoru Chiba is the present-day incarnation of Prince Endymion and the civilian identity of Tuxedo Mask",
+      "firstEpisode": "The Crybaby: Usagi's Beautiful Transformation"
     },
     {
       "id": 3,
@@ -27,8 +27,8 @@
       "alterEgo": "Ami Mizuno",
       "favorite": true,
       "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "description": "Ami Mizuno is one of the five original Inner Sailor Guardians of the Solar System and was the second Sailor Guardian introduced. Her Sailor Guardian identity is Sailor Mercury and her powers are based around water and ice, as well as intelligence and computers",
+      "firstEpisode": "Act 2 Ami - Sailor Mercury"
     },
     {
       "id": 4,
@@ -37,8 +37,8 @@
       "alterEgo": "Minako Aino",
       "favorite": false,
       "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "description": "Minako Aino is the civilian identity of Sailor V and the present-day incarnation of Sailor Venus, the guardian of love and beauty",
+      "firstEpisode": "Enter Venus, the Last Sailor Guardian"
     },
     {
       "id": 5,
@@ -46,9 +46,9 @@
       "image": "images/Sailor Mars.png",
       "alterEgo": "Rei Hino",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://media2.giphy.com/media/13IjmDjuI66Xi8/giphy.webp?cid=ecf05e47n4q5w06cuv69vp2lx1vjv4xyz4w28usujywgnvff&rid=giphy.webp&ct=g",
+      "description": "Rei Hino is the civilian identity and present-day incarnation of Sailor Mars, the guardian of Flame and Passion",
+      "firstEpisode": "Act 3 Rei - Sailor Mars"
     },
     {
       "id": 6,
@@ -57,16 +57,18 @@
       "alterEgo": "Makoto Kino",
       "favorite": false,
       "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "description": "Makoto is the civilian identity and present-day incarnation of Sailor Jupiter, the guardian of thunder and courage",
+      "firstEpisode": "Act 5 Makoto - Sailor Jupiter"
     },
     {
       "id": 7,
       "name": "Sailor Saturn",
       "image": "images/Sailor Saturn.png",
       "alterEgo": "Hotaru Tomoe",
-      "favorite": false,
-      "gif": ""
+      "favorite": true,
+      "gif": "",
+      "description": "Hotaru Tomoe is the civilian identity and present-day incarnation of Sailor Saturn, the guardian of ruin and rebirth",
+      "firstEpisode": "Who is the True Messiah? Chaos of Light and Darkness"
     },
     {
       "id": 8,
@@ -75,28 +77,28 @@
       "alterEgo": "Haruka Tenou",
       "favorite": false,
       "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "description": "Haruka Tenou is the civilian identity of Sailor Uranus, the guardian of the sky",
+      "firstEpisode": "Premonition of World's End? Mysterious New Senshi"
     },
     {
       "id": 9,
       "name": "Sailor Neptune",
       "image": "images/Sailor Neptune.png",
       "alterEgo": "Michiru Kaioh",
-      "favorite": false,
+      "favorite": true,
       "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "description": "Michiru Kaiou is the civilian identity and present-day incarnation of Sailor Neptune, the guardian of the sea.",
+      "firstEpisode": "Premonition of World's End? Mysterious New Senshi"
     },
     {
       "id": 10,
       "name": "Sailor Pluto",
       "image": "images/Sailor Pluto.png",
       "alterEgo": "Setsuna Meioh",
-      "favorite": false,
+      "favorite": true,
       "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "description": "Setsuna Meiou is the civilian identity and present-day incarnation of Sailor Pluto, the guardian of revolution",
+      "firstEpisode": "Journey to the Future: Battle in the Space-Time Corridor "
     },
     {
       "id": 11,
@@ -105,14 +107,516 @@
       "alterEgo": "Chibiusa Tsukina",
       "favorite": false,
       "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "description": "Chibiusa Tsukino is the crown princess of Earth in the 30th Century, the daughter of Neo-Queen Serenity and King Endymion and the civilian identity of Sailor Chibi Moon.",
+      "firstEpisode": "The Arrival of the Tiny Pretty Senshi"
     },
     {
       "id": 12,
       "name": "Luna & Artemis",
       "image": "images/Luna and Artemis.png",
       "alterEgo": "Luna & Artemis",
+      "favorite": false,
+      "gif": "",
+      "description": "Artemis and his partner Luna were advisors to Queen Serenity in the Silver Millennium, and when the kingdom was ruined, Serenity used the power of her Silver Crystal to send the two cats to Earth's future in order to awaken the Sailor Senshi.",
+      "firstEpisode": "Crybaby Usagi's Magnificent Transformation & The Last Sailor Senshi! Sailor Venus Appears"
+    },
+    {
+      "id": 13,
+      "name": "Ail",
+      "image": "images/Ail.png",
+      "alterEgo": "Seijuro Ginga",
+      "favorite": false,
+      "gif": "",
+      "description": "Ail was an alien who came to Earth with An on the Makaiju. While living on Earth, he adopted the name of Seijuurou Ginga. To help An steal energy from humans, Ail would summon a Cardian by playing a melody on his flute. ",
+      "firstEpisode": "Moon Returns: The Mysterious Aliens Appear"
+    },
+    {
+      "id": 14,
+      "name": "An",
+      "image": "images/An.png",
+      "alterEgo": "Natsumi Ginga",
+      "favorite": false,
+      "gif": "",
+      "description": "An was an anime-only character, one of a pair of aliens who came to Earth on the Makaiju. She posed as a human, Natsumi Ginga, while she and her companion Ail attempted to steal energy from humans to restore the ailing Makaiju.",
+      "firstEpisode": "Moon Returns: The Mysterious Aliens Appear"
+    },
+    {
+      "id": 15,
+      "name": "Berthier",
+      "image": "images/Berthier.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 16,
+      "name": "Black Lady",
+      "image": "images/Black Lady.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 17,
+      "name": "Blue Saphir",
+      "image": "images/Blue Saphir.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 18,
+      "name": "Calaveras",
+      "image": "images/Calaveras.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 19,
+      "name": "Crimson Rubeus",
+      "image": "images/Crimson Rubeus.png",
+      "alterEgo": "",
+      "favorite": true,
+      "gif": ""
+    },
+    {
+      "id": 20,
+      "name": "Cyprine",
+      "image": "images/Cyprine.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 21,
+      "name": "Diana",
+      "image": "images/Diana.png",
+      "alterEgo": "",
+      "favorite": true,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 22,
+      "name": "Eudial",
+      "image": "images/Eudial.png",
+      "alterEgo": "",
+      "favorite": true,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 23,
+      "name": "Fish's Eye",
+      "image": "images/Fish's Eye.webp",
+      "alterEgo": "Chibiusa Tsukina",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 24,
+      "name": "Green Esmeraude",
+      "image": "images/Green Esmeraude.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 25,
+      "name": "Hawk's Eye",
+      "image": "images/Hawk's Eye.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 26,
+      "name": "Helios",
+      "image": "images/Helios.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 27,
+      "name": "Jaedite",
+      "image": "images/Jaedite.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 28,
+      "name": "Kaolinite",
+      "image": "images/Kaolinite.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 29,
+      "name": "Koan",
+      "image": "images/Koan.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 30,
+      "name": "Kunzite",
+      "image": "images/Kunzite.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 31,
+      "name": "Master Pharoah 90",
+      "image": "images/Master Pharoah 90.webp",
+      "alterEgo": "",
+      "favorite": true,
+      "gif": ""
+    },
+    {
+      "id": 32,
+      "name": "Mimete",
+      "image": "images/Mimete.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 33,
+      "name": "Mistress 9",
+      "image": "images/Mistress 9.png",
+      "alterEgo": "",
+      "favorite": true,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 34,
+      "name": "Naru",
+      "image": "images/Naru.webp",
+      "alterEgo": "",
+      "favorite": true,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 35,
+      "name": "Petz",
+      "image": "images/Petz.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 36,
+      "name": "Prince Demande",
+      "image": "images/Prince Demande.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 37,
+      "name": "Professor Tomoe",
+      "image": "images/Professor Tomoe.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 38,
+      "name": "Ptilol",
+      "image": "images/Ptilol.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 39,
+      "name": "Queen Beryl",
+      "image": "images/Queen Beryl.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 40,
+      "name": "Queen Nehalennia",
+      "image": "images/Queen Nehalennia.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 41,
+      "name": "Sailor Aluminum Siren",
+      "image": "images/Sailor Aluminum Siren.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 42,
+      "name": "Sailor Ceres",
+      "image": "images/Sailor Ceres.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 43,
+      "name": "Sailor Chaos",
+      "image": "images/Sailor Chaos.png",
+      "alterEgo": "",
+      "favorite": true,
+      "gif": ""
+    },
+    {
+      "id": 44,
+      "name": "Sailor Cosmos",
+      "image": "images/Sailor Cosmos.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 45,
+      "name": "Sailor Galaxia",
+      "image": "images/Sailor Galaxia.png",
+      "alterEgo": "",
+      "favorite": true,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 46,
+      "name": "Sailor Heavy Metal Papillon",
+      "image": "images/Sailor Heavy Metal Papillon.webp",
+      "alterEgo": "",
+      "favorite": true,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 47,
+      "name": "Sailor Iron Mouse",
+      "image": "images/Sailor Iron Mouse.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 48,
+      "name": "Sailor Juno",
+      "image": "images/Sailor Juno.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 49,
+      "name": "Sailor Lead Crow",
+      "image": "images/Sailor Lead Crow.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 50,
+      "name": "Sailor Pallas",
+      "image": "images/Sailor Pallas.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 51,
+      "name": "Sailor Star Fighter",
+      "image": "images/Sailor Star Fighter.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 52,
+      "name": "Sailor Star Healer",
+      "image": "images/Sailor Star Healer.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 53,
+      "name": "Sailor Star Maker",
+      "image": "images/Sailor Star Maker.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 54,
+      "name": "Sailor Tin Nyanko",
+      "image": "images/Sailor Tin Nyanko.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 55,
+      "name": "Sailor Vesta",
+      "image": "images/Sailor Vesta.png",
+      "alterEgo": "",
+      "favorite": true,
+      "gif": ""
+    },
+    {
+      "id": 56,
+      "name": "Tellu",
+      "image": "images/Tellu.png",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 57,
+      "name": "Tiger's Eye",
+      "image": "images/Tiger's Eye.webp",
+      "alterEgo": "",
+      "favorite": true,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 58,
+      "name": "Umino",
+      "image": "images/Umino.png",
+      "alterEgo": "",
+      "favorite": true,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 59,
+      "name": "Viluy",
+      "image": "images/Viluy.webp",
+      "alterEgo": "",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 60,
+      "name": "Wiseman",
+      "image": "images/Wiseman.png",
+      "alterEgo": "Luna & Artemis",
+      "favorite": false,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 61,
+      "name": "Zirconia",
+      "image": "images/Zirconia.webp",
+      "alterEgo": "Michiru Kaioh",
+      "favorite": true,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 62,
+      "name": "Zoisite",
+      "image": "images/Zoisite.webp",
+      "alterEgo": "",
+      "favorite": true,
+      "gif": "",
+      "description": "",
+      "firstEpisode": ""
+    },
+    {
+      "id": 63,
+      "name": "Sailor Chibi Moon",
+      "image": "images/Sailor Chibi Usa.png",
+      "alterEgo": "Chibiusa Tsukina",
       "favorite": false,
       "gif": "",
       "description": "",
