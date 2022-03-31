@@ -15,8 +15,8 @@
       "name": "Tuxedo Mask",
       "image": "images/Tuxedo Mask.png",
       "alterEgo": "Mamoru Chiba",
-      "favorite": true,
-      "gif": "",
+      "favorite": false,
+      "gif": "https://media1.giphy.com/media/7WqqX7NMfWGHe/giphy.gif?cid=ecf05e47tkfriu83yy0398ye73dz9wzpmd5adp7xewerna6t&rid=giphy.gif&ct=g",
       "description": "Mamoru Chiba is the present-day incarnation of Prince Endymion and the civilian identity of Tuxedo Mask",
       "firstEpisode": "The Crybaby: Usagi's Beautiful Transformation"
     },
@@ -25,8 +25,8 @@
       "name": "Sailor Mercury",
       "image": "images/Sailor Mercury.png",
       "alterEgo": "Ami Mizuno",
-      "favorite": true,
-      "gif": "",
+      "favorite": false,
+      "gif": "https://media4.giphy.com/media/l0HlMlMVBuNhDqkF2/giphy.gif?cid=790b76114916d0ae60deb58e5145e9004dfe360adb7d7d0d&rid=giphy.gif&ct=g",
       "description": "Ami Mizuno is one of the five original Inner Sailor Guardians of the Solar System and was the second Sailor Guardian introduced. Her Sailor Guardian identity is Sailor Mercury and her powers are based around water and ice, as well as intelligence and computers",
       "firstEpisode": "Act 2 Ami - Sailor Mercury"
     },
@@ -36,7 +36,7 @@
       "image": "images/Sailor Venus.png",
       "alterEgo": "Minako Aino",
       "favorite": false,
-      "gif": "",
+      "gif": "https://media1.giphy.com/media/13RgZe9wmCgTv2/giphy.gif?cid=ecf05e474zobr9z98n089cmef1xrle347nkgjd3m5d9p8wfe&rid=giphy.gif&ct=g",
       "description": "Minako Aino is the civilian identity of Sailor V and the present-day incarnation of Sailor Venus, the guardian of love and beauty",
       "firstEpisode": "Enter Venus, the Last Sailor Guardian"
     },
@@ -55,8 +55,8 @@
       "name": "Sailor Jupiter",
       "image": "images/Sailor Jupiter.png",
       "alterEgo": "Makoto Kino",
-      "favorite": false,
-      "gif": "",
+      "favorite": true,
+      "gif": "https://media3.giphy.com/media/v5V3XxJCV0pFu/giphy.gif?cid=ecf05e47ayangebkmuwdk0ilwe3ty12uk5zto9s36x5z6vmv&rid=giphy.gif&ct=g",
       "description": "Makoto is the civilian identity and present-day incarnation of Sailor Jupiter, the guardian of thunder and courage",
       "firstEpisode": "Act 5 Makoto - Sailor Jupiter"
     },
@@ -65,8 +65,8 @@
       "name": "Sailor Saturn",
       "image": "images/Sailor Saturn.png",
       "alterEgo": "Hotaru Tomoe",
-      "favorite": true,
-      "gif": "",
+      "favorite": false,
+      "gif": "https://media2.giphy.com/media/OX7Dj6OOG9Lji/giphy.gif?cid=790b761116b42f8b863f5bf19200b6ccc038c868f7efcb4d&rid=giphy.gif&ct=g",
       "description": "Hotaru Tomoe is the civilian identity and present-day incarnation of Sailor Saturn, the guardian of ruin and rebirth",
       "firstEpisode": "Who is the True Messiah? Chaos of Light and Darkness"
     },
@@ -76,7 +76,7 @@
       "image": "images/Sailor Uranus.png",
       "alterEgo": "Haruka Tenou",
       "favorite": false,
-      "gif": "",
+      "gif": "https://media2.giphy.com/media/hUXt0x6wOAgYU/giphy.gif?cid=790b7611ebb4fb6c97a6a8b11d9c6098aa06d7ff9f56712b&rid=giphy.gif&ct=g",
       "description": "Haruka Tenou is the civilian identity of Sailor Uranus, the guardian of the sky",
       "firstEpisode": "Premonition of World's End? Mysterious New Senshi"
     },
@@ -85,8 +85,8 @@
       "name": "Sailor Neptune",
       "image": "images/Sailor Neptune.png",
       "alterEgo": "Michiru Kaioh",
-      "favorite": true,
-      "gif": "",
+      "favorite": false,
+      "gif": "https://media3.giphy.com/media/ScwSlGdFoZksM/giphy.gif?cid=790b761159aea457b4eb9d942de5c0987bfac81c31cfde36&rid=giphy.gif&ct=g",
       "description": "Michiru Kaiou is the civilian identity and present-day incarnation of Sailor Neptune, the guardian of the sea.",
       "firstEpisode": "Premonition of World's End? Mysterious New Senshi"
     },
@@ -95,8 +95,8 @@
       "name": "Sailor Pluto",
       "image": "images/Sailor Pluto.png",
       "alterEgo": "Setsuna Meioh",
-      "favorite": true,
-      "gif": "",
+      "favorite": false,
+      "gif": "https://media1.giphy.com/media/11zpB5vBNwleIE/giphy.gif?cid=ecf05e47a35ngwfqetn56tbhsk0loo2md0v5bdz8majmetkg&rid=giphy.gif&ct=g",
       "description": "Setsuna Meiou is the civilian identity and present-day incarnation of Sailor Pluto, the guardian of revolution",
       "firstEpisode": "Journey to the Future: Battle in the Space-Time Corridor "
     },
@@ -106,7 +106,7 @@
       "image": "images/Sailor Chibi Usa.png",
       "alterEgo": "Chibiusa Tsukina",
       "favorite": false,
-      "gif": "",
+      "gif": "https://media3.giphy.com/media/yohA2ltroTNNS/giphy.gif?cid=ecf05e47mwfwiyspqbq0fdad7z9qbu4dxh610a6huhb6y2gc&rid=giphy.gif&ct=g",
       "description": "Chibiusa Tsukino is the crown princess of Earth in the 30th Century, the daughter of Neo-Queen Serenity and King Endymion and the civilian identity of Sailor Chibi Moon.",
       "firstEpisode": "The Arrival of the Tiny Pretty Senshi"
     },
@@ -116,7 +116,7 @@
       "image": "images/Luna and Artemis.png",
       "alterEgo": "Luna & Artemis",
       "favorite": false,
-      "gif": "",
+      "gif": "https://64.media.tumblr.com/8bf6c05771780a015735e6847978810c/56fc7c70bf0d5257-9c/s540x810/4c21ec83d5d6165b27ffc25edc4c5b43ac2e6af9.gifv",
       "description": "Artemis and his partner Luna were advisors to Queen Serenity in the Silver Millennium, and when the kingdom was ruined, Serenity used the power of her Silver Crystal to send the two cats to Earth's future in order to awaken the Sailor Senshi.",
       "firstEpisode": "Crybaby Usagi's Magnificent Transformation & The Last Sailor Senshi! Sailor Venus Appears"
     },
@@ -126,7 +126,7 @@
       "image": "images/Ail.png",
       "alterEgo": "Seijuro Ginga",
       "favorite": false,
-      "gif": "",
+      "gif": "https://64.media.tumblr.com/7eb66f00f7b433ac6a83562cdad75805/tumblr_n5p9i8RCKE1roy8s6o1_500.gifv",
       "description": "Ail was an alien who came to Earth with An on the Makaiju. While living on Earth, he adopted the name of Seijuurou Ginga. To help An steal energy from humans, Ail would summon a Cardian by playing a melody on his flute. ",
       "firstEpisode": "Moon Returns: The Mysterious Aliens Appear"
     },
@@ -136,7 +136,7 @@
       "image": "images/An.png",
       "alterEgo": "Natsumi Ginga",
       "favorite": false,
-      "gif": "",
+      "gif": "https://64.media.tumblr.com/cd202734bc7102883bc8b984696b3cfa/28dad3dd1ed60b0a-45/s540x810/a29d040d58671f62621f57a70fb8f8da526eb7f0.gifv",
       "description": "An was an anime-only character, one of a pair of aliens who came to Earth on the Makaiju. She posed as a human, Natsumi Ginga, while she and her companion Ail attempted to steal energy from humans to restore the ailing Makaiju.",
       "firstEpisode": "Moon Returns: The Mysterious Aliens Appear"
     },
@@ -146,19 +146,19 @@
       "image": "images/Berthier.png",
       "alterEgo": "",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/0cb0112aa1f34e6f4387bfc89c63f6aa/tumblr_pc2z1aVH6h1xxoebko1_540.gifv",
+      "description": "Berthier was a member of the Black Moon Clan and the second youngest of the four Spectre Sisters. She accompanied Rubeus and her sisters to 20th-century Earth in order to locate Chibiusa and find the Silver Crystal",
+      "firstEpisode": "An Angel? A Devil? Mysterious Girl From the Sky"
     },
     {
       "id": 16,
       "name": "Black Lady",
       "image": "images/Black Lady.webp",
-      "alterEgo": "",
+      "alterEgo": "Chibiusa Tsukino",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/5b007c84b2f69dac51c92c60c8139716/df5ef59e300e3062-0b/s500x750/f0f11df17b5d0abfaa21c14cfd969d648e585af3.gifv",
+      "description": "Black Lady is an evil, grown-up version of Chibiusa Tsukino, who was corrupted by Wiseman ",
+      "firstEpisode": "The Birth of Black Lady, The Queen of Darkness"
     },
     {
       "id": 17,
@@ -166,27 +166,29 @@
       "image": "images/Blue Saphir.png",
       "alterEgo": "",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/bc1f53b4059d93a164a7fcd202117db1/tumblr_p1c8blhIBI1tif7gzo6_r1_250.gifv",
+      "description": "Saphir was a member of the Black Moon Clan and the younger brother of Prince Demande",
+      "firstEpisode": "The Mysterious New Guardian: Sailor Pluto Appears"
     },
     {
       "id": 18,
       "name": "Calaveras",
       "image": "images/Calaveras.png",
-      "alterEgo": "",
+      "alterEgo": "Miss Calaveras",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/6545b49a07bca3b252231f73d9f54970/tumblr_mhttyjFQ5D1rdoflzo2_250.gifv",
+      "description": "Calaveras was a member of the Black Moon Clan and the second oldest of the four Spectre Sisters. She accompanied Rubeus and her sisters to 20th-century Earth in order to locate Chibiusa and find the Silver Crystal",
+      "firstEpisode": "Women Should Be Strong and Beautiful! Rei's New Killer Move"
     },
     {
       "id": 19,
-      "name": "Crimson Rubeus",
+      "name": "Rubeus",
       "image": "images/Crimson Rubeus.png",
-      "alterEgo": "",
-      "favorite": true,
-      "gif": ""
+      "alterEgo": "Crimson Rubeus",
+      "favorite": false,
+      "gif": "https://64.media.tumblr.com/0ec72165f727d8b5eef103b65cfe54ef/tumblr_ngwwc7nEMF1tggy4no7_400.gifv",
+      "description": "Rubeus was a member of the Black Moon Clan. He led the Spectre Sisters to current-day Tokyo in search of Chibiusa",
+      "firstEpisode": ""
     },
     {
       "id": 20,
@@ -194,49 +196,49 @@
       "image": "images/Cyprine.webp",
       "alterEgo": "",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/7a270d416f1bc497236ab9b58d59e127/728507e56e10da2d-ac/s540x810/47976c19ad7f77d054ba336b2b466d1dd462cc13.gifv",
+      "description": "Ptilol and Cyprine were the fifth member of the Witches 5 to appear in Sailor Moon S. According to the Materials Collection, the two of them were one 'twin', but when they fought Ptilol would split away from Cyprine",
+      "firstEpisode": "Shadows of Destruction! The Awakening of the Messiah of Silence"
     },
     {
       "id": 21,
       "name": "Diana",
       "image": "images/Diana.png",
       "alterEgo": "",
-      "favorite": true,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "favorite": false,
+      "gif": "https://thumbs.gfycat.com/HighWaryDikkops-size_restricted.gif",
+      "description": "Diana was a small gray kitten. She was the future daughter of Luna and Artemis, and served as Chibiusa's companion.",
+      "firstEpisode": "Artemis' Affair? A Mysterious Kitten Appears"
     },
     {
       "id": 22,
       "name": "Eudial",
       "image": "images/Eudial.png",
-      "alterEgo": "",
-      "favorite": true,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "alterEgo": "Yuko Arimura",
+      "favorite": false,
+      "gif": "https://static.wikia.nocookie.net/evilbabes/images/6/6f/Tumblr_inline_p7q16aJiSt1sjmm1c_500.gif/revision/latest/scale-to-width-down/250?cb=20200303171020",
+      "description": "Eudial was the first member of the Witches 5 to appear in the Sailor Moon S season and Infinity arc. She showed tremendous expertise in computer programming and inventing weapons. Her powers were fire-based",
+      "firstEpisode": "The Arrival of the Tiny Pretty Senshi"
     },
     {
       "id": 23,
       "name": "Fish's Eye",
       "image": "images/Fish's Eye.webp",
-      "alterEgo": "Chibiusa Tsukina",
+      "alterEgo": "Nanami Uokawa",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/c5ece01ef4d4c0fbafa1918777389f0d/169d9ef812b12944-5e/s640x960/2732e6f78f24ea4fd68b735ffde1ccc3de215c50.gifv",
+      "description": "Fisheye was a member of the Amazon Trio. He was originally a fish at the Dead Moon Circus, but was given human form.",
+      "firstEpisode": "Meeting of Fate! The Night Where a Pegasus Flies"
     },
     {
       "id": 24,
-      "name": "Green Esmeraude",
+      "name": "Esmeraude",
       "image": "images/Green Esmeraude.webp",
-      "alterEgo": "",
+      "alterEgo": "Green Esmeraude",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://c.tenor.com/gwCYOuHNPj0AAAAC/sailor-moon-esmeraude.gif",
+      "description": "Esmeraude was a member of the Black Moon Clan who took Rubeus's place after he failed Prinde Demande",
+      "firstEpisode": "A UFO Appears! The Sailor Senshi are Abducted"
     },
     {
       "id": 25,
@@ -244,29 +246,29 @@
       "image": "images/Hawk's Eye.webp",
       "alterEgo": "",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/db48a4151558c56ed4bd548c12a89bc7/tumblr_nln6pbxE8B1tggy4no3_400.gifv",
+      "description": "Hawk's Eye was a member of the Amazon Trio. He was originally a hawk at the Dead Moon Circus, but was given human form",
+      "firstEpisode": "Meeting of Fate! The Night Where a Pegasus Flies"
     },
     {
       "id": 26,
       "name": "Helios",
       "image": "images/Helios.webp",
-      "alterEgo": "",
+      "alterEgo": "Pegasus",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/0b98805379eafabffd0198035af28c74/tumblr_p6cm2hmhF31va4s21o1_500.gifv",
+      "description": "Helios is the guardian of the Golden Crystal and the holy priest of Elysion",
+      "firstEpisode": "Meeting of Fate! The Night Where a Pegasus Flies"
     },
     {
       "id": 27,
-      "name": "Jaedite",
+      "name": "Jadeite",
       "image": "images/Jaedite.webp",
       "alterEgo": "",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/4622747008e8220ad399b79823d4eeee/6c742515a3476a59-9b/s400x600/3c62b0440a012cd4fb87979d2102920e3b2e75d9.gifv",
+      "description": "Jadeite was the first of Queen Beryl's Shitennou to appear in the series. He was handsome and used his charisma in his ploys to gather energy for the Dark Kingdom",
+      "firstEpisode": "Crybaby Usagi's Magnificent Transformation"
     },
     {
       "id": 28,
@@ -274,37 +276,39 @@
       "image": "images/Kaolinite.webp",
       "alterEgo": "",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://i.pinimg.com/originals/11/2b/e8/112be8b42a1f462c9a035f167b94fe3c.gif",
+      "description": "Kaolinite was a member of the Death Busters. She was the first main enemy to appear from the Death Busters, and was soon shown to hold an important position in their organization",
+      "firstEpisode": "Premonition of World's End? Mysterious New Senshi"
     },
     {
       "id": 29,
       "name": "Koan",
       "image": "images/Koan.png",
-      "alterEgo": "",
+      "alterEgo": "Koan Kurozuki, Koan Azabu",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/41639e04391d0baaf07065999b9fef06/d73b39cd27cc6015-00/s500x750/5e655ea735841af2c1525fd39c2d2b3dcd55cdc3.gifv",
+      "description": "Koan was a member of the Black Moon Clan and the youngest of the four Spectre Sisters. She accompanied Rubeus and her sisters to 20th-century Earth in order to locate Chibiusa and find the Silver Crystal.",
+      "firstEpisode": "An Angel? A Devil? Mysterious Girl From the Sky"
     },
     {
       "id": 30,
       "name": "Kunzite",
       "image": "images/Kunzite.webp",
-      "alterEgo": "",
+      "alterEgo": "Malachite ",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/5ce45cb6febfa40c236c26d2b6acb3d8/030fd60abc903629-59/s400x600/fa1eb27c1aa6468ce9785979fc28b45a894ca409.gifv",
+      "description": "Kunzite is the 4th and most powerful general of the Shitennou",
+      "firstEpisode": "Romance Under the Moon! Usagi's First Kiss"
     },
     {
       "id": 31,
-      "name": "Master Pharoah 90",
+      "name": "Pharoah 90",
       "image": "images/Master Pharoah 90.webp",
-      "alterEgo": "",
-      "favorite": true,
-      "gif": ""
+      "alterEgo": "Master Pharaoh 90",
+      "favorite": false,
+      "gif": "https://data.whicdn.com/images/247000027/original.gif",
+      "description": "Pharaoh 90 was the mastermind of the Death Busters. An enormous alien entity coming from the Tau Star System, it sought to take over the Earth through the power of the Silver Crystal ",
+      "firstEpisode": "A Bright Shooting Star! Saturn and the Messiah"
     },
     {
       "id": 32,
@@ -312,29 +316,29 @@
       "image": "images/Mimete.png",
       "alterEgo": "",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://c.tenor.com/-rTdVj9POJQAAAAd/sailor-moon-mimette.gif",
+      "description": "Mimete was the second of the Witches 5 to appear. Her powers were charm-based and she has a rivalry with Minako Aino",
+      "firstEpisode": "Death of Uranus and Neptune? Talismans Appear"
     },
     {
       "id": 33,
       "name": "Mistress 9",
       "image": "images/Mistress 9.png",
-      "alterEgo": "",
-      "favorite": true,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "alterEgo": "Hotaru Tomoe, Messiah of Silence",
+      "favorite": false,
+      "gif": "https://c.tenor.com/FbAjuHnWCVYAAAAd/sailor-moon-mistress9.gif",
+      "description": "Mistress 9 was an entity from the Tau Star System, implanted into Hotaru Tomoe by Germatoid after he made a bargain with Professor Souichi Tomoe.",
+      "firstEpisode": "Shadows of Destruction! The Awakening of the Messiah of Silence"
     },
     {
       "id": 34,
-      "name": "Naru",
+      "name": "Naru Osaka",
       "image": "images/Naru.webp",
       "alterEgo": "",
-      "favorite": true,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "favorite": false,
+      "gif": "https://64.media.tumblr.com/b6d2b2108be6b54cead8faa0f180d8cb/022ff7a4857d42fa-d0/s500x750/f44ecae4a81e68237343d3e011369cca1ff762c8.gifv",
+      "description": "Naru Osaka was the daughter of the owner of the Osa-P jewelry store and friend to Usagi Tsukino.",
+      "firstEpisode": "Crybaby Usagi's Magnificent Transformation"
     },
     {
       "id": 35,
@@ -342,9 +346,9 @@
       "image": "images/Petz.png",
       "alterEgo": "",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/27f0f11aaa70ca53fa359e09224e2b3c/tumblr_piodbitue41qdewlro1_400.gifv",
+      "description": "Petz was a member of the Black Moon Clan and the oldest of the four Spectre Sisters. She accompanied Rubeus and her sisters to 20th-century Earth in order to locate Chibiusa and find the Silver Crystal",
+      "firstEpisode": "In Search of the Silver Crystal! Chibiusa's Secret"
     },
     {
       "id": 36,
@@ -352,9 +356,9 @@
       "image": "images/Prince Demande.webp",
       "alterEgo": "",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/65a6f025fe1ea390c07092fe7537c6bc/b9aa396bd5845d7e-5c/s500x750/479cfd11bbfde9970633b704b57b3fa999f3acb8.gifv",
+      "description": "Prince Demande was the head of the Black Moon Clan. He oversaw an attack on Crystal Tokyo in the 30th century.",
+      "firstEpisode": "Defeat Rubeus! The Final Battle in Space"
     },
     {
       "id": 37,
@@ -362,9 +366,9 @@
       "image": "images/Professor Tomoe.png",
       "alterEgo": "",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/a2e54391304744e79de757601a90de47/tumblr_o8d4ywkMDU1u6u7neo3_500.gifv",
+      "description": "Professor Souichi Tomoe was the father of Hotaru Tomoe, owner of Mugen Academy, and a famous scientist. After an accident at his laboratory, he became the leader of the Death Busters",
+      "firstEpisode": "Premonition of World's End? Mysterious New Senshi,"
     },
     {
       "id": 38,
@@ -372,19 +376,19 @@
       "image": "images/Ptilol.webp",
       "alterEgo": "",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/7a270d416f1bc497236ab9b58d59e127/728507e56e10da2d-ac/s540x810/47976c19ad7f77d054ba336b2b466d1dd462cc13.gifv",
+      "description": "Ptilol and Cyprine were the fifth member of the Witches 5 to appear in Sailor Moon S. According to the Materials Collection, the two of them were one twin, but when they fought Ptilol would split away from Cyprine",
+      "firstEpisode": "Shadows of Destruction! The Awakening of the Messiah of Silence"
     },
     {
       "id": 39,
       "name": "Queen Beryl",
       "image": "images/Queen Beryl.png",
-      "alterEgo": "",
+      "alterEgo": "Queen of Darkness",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/944d13745adc8e097e7e4ba5fce09808/3e314edbe43f9f4e-74/s640x960/3fa6550fc326f2eb70ac88b8655ae70c3564aa3b.gif",
+      "description": "Queen Beryl was the commander of the Dark Kingdom and the first of many villains that would clash with the Sailor Senshi. ",
+      "firstEpisode": "Crybaby Usagi's Magnificent Transformation"
     },
     {
       "id": 40,
@@ -392,235 +396,219 @@
       "image": "images/Queen Nehalennia.webp",
       "alterEgo": "",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/a6a1933a3dfe8552748e6e405de781fa/5d2d871895197269-a4/s540x810/cb11455a61f3d37a736b74c12ddb4937e29d4180.gifv",
+      "description": "Queen Nehelenia is the main villain of the 4th season of the anime series, and the leader of the Dead Moon Circus",
+      "firstEpisode": "Shadow of Evil: The Trio's Last Chance"
     },
     {
       "id": 41,
       "name": "Sailor Aluminum Siren",
       "image": "images/Sailor Aluminum Siren.png",
-      "alterEgo": "",
+      "alterEgo": "Reiko Aya",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://c.tenor.com/3F2EBwRPkh4AAAAC/sailor-moon-aluminum-siren.gif",
+      "description": "Sailor Aluminum Seiren was one of the Sailor Animamates subservient to Sailor Galaxia. ",
+      "firstEpisode": "Enemies? Allies? Starlights and Sailor Senshi"
     },
     {
       "id": 42,
       "name": "Sailor Ceres",
       "image": "images/Sailor Ceres.png",
-      "alterEgo": "",
+      "alterEgo": "CereCere",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://pa1.narvii.com/6812/501d711a3b3aec27a84dd0fbbf617cb67923de0f_hq.gif",
+      "description": "Sailor Ceres is one of the members of the Sailor Quartet. ",
+      "firstEpisode": "Sailor Moon Eternal"
     },
     {
       "id": 43,
       "name": "Sailor Chaos",
       "image": "images/Sailor Chaos.png",
-      "alterEgo": "",
-      "favorite": true,
-      "gif": ""
+      "alterEgo": "Sailor Galaxia",
+      "favorite": false,
+      "gif": "https://64.media.tumblr.com/863bc66883b17af22f6e49984bd7080b/17a2cb1a563f4754-e2/s1280x1920/33c3be4c43502b1ca0650b84e837909549164306.gifv",
+      "description": "Sailor Chaos is one of Sailor Galaxia's forms. In this form, she is completely consumed by Chaos. Sailor Galaxia ended up being totally corrupted by Chaos",
+      "firstEpisode": "A Goodbye and an Encounter! The Destiny of Flowing Stars"
     },
     {
       "id": 44,
       "name": "Sailor Cosmos",
       "image": "images/Sailor Cosmos.webp",
-      "alterEgo": "",
+      "alterEgo": "Chibi Chibi",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "http://pm1.narvii.com/6833/f6954f2dcf857669ed5b06953eab683c23df3e53v2_00.jpg",
+      "description": "Sailor Cosmos was a character who played an important part in the Stars arc of the Sailor Moon manga, where she was revealed to be the true form of Chibi Chibi",
+      "firstEpisode": "Usagi's Love! The Moonlight Lights up the Galaxy"
     },
     {
       "id": 45,
       "name": "Sailor Galaxia",
       "image": "images/Sailor Galaxia.png",
-      "alterEgo": "",
-      "favorite": true,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "alterEgo": "Star Galaxia, Chaos Galaxia",
+      "favorite": false,
+      "gif": "https://static.wikia.nocookie.net/deathbattle/images/6/6f/5cUS.gif/revision/latest/scale-to-width-down/250?cb=20200727194101",
+      "description": "Sailor Galaxia was an extremely powerful Sailor Senshi who known as the Soldier of Solitude and the Soldier of Destruction",
+      "firstEpisode": "A Goodbye and an Encounter! The Destiny of Flowing Stars"
     },
     {
       "id": 46,
-      "name": "Sailor Heavy Metal Papillon",
-      "image": "images/Sailor Heavy Metal Papillon.webp",
-      "alterEgo": "",
-      "favorite": true,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "name": "Sailor Iron Mouse",
+      "image": "images/Sailor Iron Mouse.png",
+      "alterEgo": "Chuuko Nezu ",
+      "favorite": false,
+      "gif": "https://data.whicdn.com/images/205474618/original.gif",
+      "description": "Sailor Iron Mouse was the first of the Sailor Animamates to appear",
+      "firstEpisode": "A Goodbye and an Encounter! The Destiny of Flowing Stars"
     },
     {
       "id": 47,
-      "name": "Sailor Iron Mouse",
-      "image": "images/Sailor Iron Mouse.png",
-      "alterEgo": "",
+      "name": "Sailor Juno",
+      "image": "images/Sailor Juno.png",
+      "alterEgo": "JunJun",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://c.tenor.com/eDn-vTQkzCgAAAAC/sailor-moon.gif",
+      "description": "Sailor Juno was a member of the Sailor Quartet",
+      "firstEpisode": "Sailor Moon Eternal"
     },
     {
       "id": 48,
-      "name": "Sailor Juno",
-      "image": "images/Sailor Juno.png",
-      "alterEgo": "",
+      "name": "Sailor Lead Crow",
+      "image": "images/Sailor Lead Crow.png",
+      "alterEgo": "Akane Karasuma ",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://pa1.narvii.com/5945/d36524fd058376658b652fca8bf747dc85ee29bd_hq.gif",
+      "description": "Sailor Lead Crow was one of the Sailor Animamates subservient to Sailor Galaxia",
+      "firstEpisode": "Enemies? Allies? Starlights and Sailor Senshi"
     },
     {
       "id": 49,
-      "name": "Sailor Lead Crow",
-      "image": "images/Sailor Lead Crow.png",
-      "alterEgo": "",
+      "name": "Sailor Pallas",
+      "image": "images/Sailor Pallas.png",
+      "alterEgo": "PallaPalla",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "http://pa1.narvii.com/6804/f266d70b44af02f7dda6a718113f5b566d32c16f_00.gif",
+      "description": "Sailor Pallas was a member of the Sailor Quartet",
+      "firstEpisode": "Sailor Moon Eternal"
     },
     {
       "id": 50,
-      "name": "Sailor Pallas",
-      "image": "images/Sailor Pallas.png",
-      "alterEgo": "",
+      "name": "Sailor Star Fighter",
+      "image": "images/Sailor Star Fighter.webp",
+      "alterEgo": "Seiya Kou",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/5e2d134d32173e1ba3b9b9004835a90f/5bd9db778b18cc21-9d/s1280x1920/29e7c5c818a35d6ae5bfe156f4157e7d10243672.gifv",
+      "description": "Seiya Kou is one of the members of the Three Lights idol group and is the civilian identity of Sailor Star Fighter. She is a student at Juban Public High School and the lead singer of the Three Lights.",
+      "firstEpisode": "Farewells and Encounters: The Transitioning Stars of Destiny"
     },
     {
       "id": 51,
-      "name": "Sailor Star Fighter",
-      "image": "images/Sailor Star Fighter.webp",
-      "alterEgo": "",
+      "name": "Sailor Star Healer",
+      "image": "images/Sailor Star Healer.webp",
+      "alterEgo": "Yaten Kou",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "http://images4.fanpop.com/image/photos/23000000/Sailor-Star-Healer-s-Transformations-kou-yaten-sailor-star-healer-23005725-360-258.gif",
+      "description": "Yaten Kou is one of the members of the Three Lights idol group and is the civilian identity of Sailor Star Healer",
+      "firstEpisode": "Farewells and Encounters: The Transitioning Stars of Destiny"
     },
     {
       "id": 52,
-      "name": "Sailor Star Healer",
-      "image": "images/Sailor Star Healer.webp",
-      "alterEgo": "",
+      "name": "Sailor Star Maker",
+      "image": "images/Sailor Star Maker.png",
+      "alterEgo": "Taiki Kou",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://i.pinimg.com/originals/56/1a/db/561adb7490fc8256469842c524aee64b.gif",
+      "description": "Taiki Kou is one of the members of the Three Lights idol group and is the civilian identity of Sailor Star Maker ",
+      "firstEpisode": "Farewells and Encounters: The Transitioning Stars of Destiny"
     },
     {
       "id": 53,
-      "name": "Sailor Star Maker",
-      "image": "images/Sailor Star Maker.png",
-      "alterEgo": "",
+      "name": "Sailor Tin Nyanko",
+      "image": "images/Sailor Tin Nyanko.png",
+      "alterEgo": "Nyanko Suzu",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/ab47a2667dcde5d0cf02fc5e571dba03/tumblr_mj2hsvT6e61rdoflzo9_250.gifv",
+      "description": "Sailor Tin Nyanko is the fourth and final Sailor Animamate. She has a cold personality, willing to kill anyone who is in her way. She is the only Sailor Animamate who is known to be a true Sailor Senshi.",
+      "firstEpisode": "Invitation to Terror: Usagi's Night Flight"
     },
     {
       "id": 54,
-      "name": "Sailor Tin Nyanko",
-      "image": "images/Sailor Tin Nyanko.png",
-      "alterEgo": "",
+      "name": "Sailor Vesta",
+      "image": "images/Sailor Vesta.png",
+      "alterEgo": "VesVes",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://static.wikia.nocookie.net/vsbattles/images/6/6f/Colidingball.attack.gif/revision/latest/scale-to-width-down/250?cb=20170505071114",
+      "description": "Sailor Vesta was a member of the Sailor Quartet",
+      "firstEpisode": "Sailor Moon Eternal"
     },
     {
       "id": 55,
-      "name": "Sailor Vesta",
-      "image": "images/Sailor Vesta.png",
-      "alterEgo": "",
-      "favorite": true,
-      "gif": ""
+      "name": "Tellu",
+      "image": "images/Tellu.png",
+      "alterEgo": "Ruru Teruno",
+      "favorite": false,
+      "gif": "https://j.gifs.com/wVVjZJ.gif",
+      "description": "Tellu is the 3rd member of the Witches 5 and is the 3rd witch to collect Pure Heart Crystals and battle the Sailor Guardians.",
+      "firstEpisode": "Invasion From an Alternate Dimension! The Mystery of Mugen Academy"
     },
     {
       "id": 56,
-      "name": "Tellu",
-      "image": "images/Tellu.png",
-      "alterEgo": "",
+      "name": "Tiger's Eye",
+      "image": "images/Tiger's Eye.webp",
+      "alterEgo": "Torazo Miyamoto, Toranosuke Moribashi",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://64.media.tumblr.com/93a07962e42fe4cac4f357de4959f0ef/tumblr_nljgqeRL7p1tggy4no6_400.gifv",
+      "description": "Tiger's Eye was a member of the Amazon Trio. He was originally a tiger at the Dead Moon Circus, but was given human form.",
+      "firstEpisode": "Meeting of Fate! The Night Where a Pegasus Flies"
     },
     {
       "id": 57,
-      "name": "Tiger's Eye",
-      "image": "images/Tiger's Eye.webp",
-      "alterEgo": "",
-      "favorite": true,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "name": "Gurio Umino",
+      "image": "images/Umino.png",
+      "alterEgo": "Tuxedo Umino Mask",
+      "favorite": false,
+      "gif": "https://64.media.tumblr.com/95ffb76d5180b0fb338aa05e480fd934/tumblr_miht3puGWw1s3yrbuo1_400.gifv",
+      "description": "Gurio Umino was the well-meaning but socially awkward otaku classmate of Usagi Tsukino and Naru Osaka.",
+      "firstEpisode": "Crybaby Usagi's Magnificent Transformation"
     },
     {
       "id": 58,
-      "name": "Umino",
-      "image": "images/Umino.png",
-      "alterEgo": "",
-      "favorite": true,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
-    },
-    {
-      "id": 59,
       "name": "Viluy",
       "image": "images/Viluy.webp",
       "alterEgo": "",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "Yui Bidou",
+      "description": "Viluy was the fourth member of the Witches 5. She had power over ice and also used technology and nano robots to attack her victims.",
+      "firstEpisode": "Believe in Love! Ami, a Kind Hearted Senshi"
+    },
+    {
+      "id": 59,
+      "name": "Wiseman",
+      "image": "images/Wiseman.png",
+      "alterEgo": "Death Phantom",
+      "favorite": false,
+      "gif": "https://64.media.tumblr.com/7b4998614d70f551286d6bd87ee06161/0756f0372b25f125-e6/s500x750/234c0458809bc0d5db1bea8fd4e222d67d54b1e9.gifv",
+      "description": "Wiseman was the advisor to the Black Moon Clan of Nemesis, and in that position led them into attacking Crystal Tokyo and then led them to 20th-century Tokyo after Chibiusa, all in pursuit of the Silver Crystal",
+      "firstEpisode": "An Angel? A Devil? Mysterious Girl From the Sky"
     },
     {
       "id": 60,
-      "name": "Wiseman",
-      "image": "images/Wiseman.png",
-      "alterEgo": "Luna & Artemis",
-      "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
-    },
-    {
-      "id": 61,
       "name": "Zirconia",
       "image": "images/Zirconia.webp",
       "alterEgo": "Michiru Kaioh",
-      "favorite": true,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "favorite": false,
+      "gif": "https://64.media.tumblr.com/67bf7fdf35d2570dafcfb1b486046b91/feb495f572888a3b-ee/s500x750/afbf6843857b5098e95e0bc3ed188960596376ed.gifv",
+      "description": "Zirconia was the ringmaster of the Dead Moon Circus and commander of the Dead Moon forces prior to Queen Nehellenia's release from her mirror. She was always accompanied by the creature known as Zircon.",
+      "firstEpisode": "Meeting of Fate! The Night Where a Pegasus Flies"
     },
     {
-      "id": 62,
+      "id": 61,
       "name": "Zoisite",
       "image": "images/Zoisite.webp",
       "alterEgo": "",
-      "favorite": true,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
-    },
-    {
-      "id": 63,
-      "name": "Sailor Chibi Moon",
-      "image": "images/Sailor Chibi Usa.png",
-      "alterEgo": "Chibiusa Tsukina",
       "favorite": false,
-      "gif": "",
-      "description": "",
-      "firstEpisode": ""
+      "gif": "https://i.pinimg.com/originals/e7/8b/ab/e78bab199ae2d232cd6bf590b050df9f.gif",
+      "description": "Zoisite was the third of the Shitennou to appear",
+      "firstEpisode": "A Powerful New Enemy! Nephrite's Evil Crest"
     }
   ]
 }
