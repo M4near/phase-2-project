@@ -21,6 +21,7 @@ function FeatureCharacter({characters}) {
     
     return (
         <div id="featureCharacterContainer">
+            <img id="left-gif" src='https://www.icegif.com/wp-content/uploads/haters-gonna-hate-sailor-moon.gif' alt='Sailor Moon sparkly gif'/>
             {!randomCharacter && <div>Loading...</div>}
             {randomCharacter && 
             <li id='featureCharacter' className="card">
@@ -32,6 +33,7 @@ function FeatureCharacter({characters}) {
                 {/* <button id='featureInfoButton' className='button'>See More Info!</button> */}
             </div>           
             </li>}
+            <img id="left-gif" src='https://www.icegif.com/wp-content/uploads/haters-gonna-hate-sailor-moon.gif' alt='Sailor Moon sparkly gif'/>
         </div>
     );
 }
