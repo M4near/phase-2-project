@@ -5,7 +5,7 @@
       "name": "Sailor Moon",
       "image": "images/Sailor Moon.png",
       "alterEgo": "Usagi Tsukino",
-      "favorite": false,
+      "favorite": true,
       "gif": "https://c.tenor.com/54UoAky8vOYAAAAM/sailor-moon-transformation.gif",
       "description": "Usagi Tsukino is the Sailor Guardian of love and justice, Sailor Moon. Originally from a prosperous civilization on the Moon known as the Moon Kingdom, she was reborn on Earth and re-awoke as the leader of the Sailor Senshi",
       "firstEpisode": "The Crybaby: Usagi's Beautiful Transformation"
@@ -15,7 +15,7 @@
       "name": "Tuxedo Mask",
       "image": "images/Tuxedo Mask.png",
       "alterEgo": "Mamoru Chiba",
-      "favorite": false,
+      "favorite": true,
       "gif": "https://media1.giphy.com/media/7WqqX7NMfWGHe/giphy.gif?cid=ecf05e47tkfriu83yy0398ye73dz9wzpmd5adp7xewerna6t&rid=giphy.gif&ct=g",
       "description": "Mamoru Chiba is the present-day incarnation of Prince Endymion and the civilian identity of Tuxedo Mask",
       "firstEpisode": "The Crybaby: Usagi's Beautiful Transformation"
@@ -205,7 +205,7 @@
       "name": "Diana",
       "image": "images/Diana.png",
       "alterEgo": "",
-      "favorite": false,
+      "favorite": true,
       "gif": "https://thumbs.gfycat.com/HighWaryDikkops-size_restricted.gif",
       "description": "Diana was a small gray kitten. She was the future daughter of Luna and Artemis, and served as Chibiusa's companion.",
       "firstEpisode": "Artemis' Affair? A Mysterious Kitten Appears"
@@ -435,7 +435,7 @@
       "name": "Sailor Cosmos",
       "image": "images/Sailor Cosmos.webp",
       "alterEgo": "Chibi Chibi",
-      "favorite": false,
+      "favorite": true,
       "gif": "http://pm1.narvii.com/6833/f6954f2dcf857669ed5b06953eab683c23df3e53v2_00.jpg",
       "description": "Sailor Cosmos was a character who played an important part in the Stars arc of the Sailor Moon manga, where she was revealed to be the true form of Chibi Chibi",
       "firstEpisode": "Usagi's Love! The Moonlight Lights up the Galaxy"

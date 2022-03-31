@@ -31,7 +31,7 @@ function App() {
           <SelectedCharacterCard characters={characters} setCharacters={setCharacters} selectedCharacter={selectedCharacter}/>
         </Route>
         <Route  path="/favorites"> 
-          <FavoritesList characters={characters} setCharacters={setCharacters}/>
+          <FavoritesList characters={characters} setCharacters={setCharacters} selectedCharacter={selectedCharacter} setSelectedCharacter={setSelectedCharacter}/>
         </Route>
       </Switch>
     </div>

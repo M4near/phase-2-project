@@ -2,14 +2,14 @@ import React from "react";
 import { Route, useRouteMatch } from "react-router-dom";
 import FavoritesCard from "./FavoritesCard";
 
-function FavoritesList({characters, setCharacters}) {
+function FavoritesList({characters, setCharacters, selectedCharacter, setSelectedCharacter}) {
     console.log("Trying something")
 
     console.log("here", characters)
     const renderFavorites = characters
     .map((character) => {
         if (character.favorite === true) {
-            return  <FavoritesCard key={character.id} character={character} setCharacters={setCharacters} />
+            return  <FavoritesCard key={character.id} character={character} setCharacters={setCharacters} selectedCharacter={selectedCharacter} setSelectedCharacter={setSelectedCharacter}/>
         } else {
             return null
         }
