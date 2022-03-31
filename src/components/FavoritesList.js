@@ -1,9 +1,11 @@
 import React from "react";
+import { Route, useRouteMatch } from "react-router-dom";
 import FavoritesCard from "./FavoritesCard";
 
-function FavoritesList({characters, query, setQuery, setCharacters}) {
+function FavoritesList({characters, setCharacters}) {
+    console.log("Trying something")
 
-    console.log(characters)
+    console.log("here", characters)
     const renderFavorites = characters
     .map((character) => {
         if (character.favorite === true) {
@@ -27,9 +29,11 @@ function FavoritesList({characters, query, setQuery, setCharacters}) {
     // }
 
     return (
+        <div>
         <ul id="character-list">
             {renderFavorites}
         </ul>
+        </div>
     );
 }
 

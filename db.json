@@ -7,15 +7,15 @@
       "alterEgo": "Usagi Tsukino",
       "favorite": true,
       "gif": "https://c.tenor.com/54UoAky8vOYAAAAM/sailor-moon-transformation.gif",
-      "description": "",
-      "firstEpisode": ""
+      "description": "She is a sailor on the moon!",
+      "firstEpisode": "The Crybaby: Usagi's Beautiful Transformation"
     },
     {
       "id": 2,
       "name": "Tuxedo Mask",
       "image": "images/Tuxedo Mask.png",
       "alterEgo": "Mamoru Chiba",
-      "favorite": false,
+      "favorite": true,
       "gif": "",
       "description": "",
       "firstEpisode": ""
@@ -25,7 +25,7 @@
       "name": "Sailor Mercury",
       "image": "images/Sailor Mercury.png",
       "alterEgo": "Ami Mizuno",
-      "favorite": false,
+      "favorite": true,
       "gif": "",
       "description": "",
       "firstEpisode": ""
@@ -93,7 +93,7 @@
       "name": "Sailor Pluto",
       "image": "images/Sailor Pluto.png",
       "alterEgo": "Setsuna Meioh",
-      "favorite": true,
+      "favorite": false,
       "gif": "",
       "description": "",
       "firstEpisode": ""

@@ -1,7 +1,9 @@
 import React, {useState} from "react";
 import {Link} from "react-router-dom";
+import SelectedCharacterCard from "./SelectedCharacterCard";
+import {Route} from "react-router-dom";
 
-function CharacterCard({character, setCharacters, handleUpdateCharacter, setSelectedCharacter}) {
+function CharacterCard({character, setCharacters, handleUpdateCharacter, selectedCharacter, setSelectedCharacter}) {
     const {id, name, image, alterEgo, gif} = character
     
     function handleClick(event){
@@ -34,7 +36,10 @@ function CharacterCard({character, setCharacters, handleUpdateCharacter, setSele
                 <h4>{name}</h4>
             </div>  
             <div id='infoButtonContainer'>
-                <button className='button' id='infoButton' onClick={handleClick}><Link to="/selectedCharacter">See More Info!</Link></button>
+            <Route path="/selectedCharacter">
+                <SelectedCharacterCard selectedCharacter={selectedCharacter}/>
+            </Route>
+            <Link to="/selectedCharacter"><button className='button' id='infoButton' onClick={handleClick}>See More Info!</button></Link>
             </div>
             {/* <img id="gif" src={gif}/> */}
         </li>

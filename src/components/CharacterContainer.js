@@ -4,17 +4,17 @@ import Search from "./Search";
 import FavoritesList from "./FavoritesList";
 import SelectedCharacterCard from "./SelectedCharacterCard";
 
-function CharacterContainer() {
+function CharacterContainer({characters, setCharacters, selectedCharacter, setSelectedCharacter}) {
     const [query, setQuery] = useState("");
-    const [characters, setCharacters] = useState([]);
+    // const [characters, setCharacters] = useState([]);
 
-    function fetchCharacters() {
-        fetch ('http://localhost:6001/characters')
-        .then(resp => resp.json())
-        .then(characterData => setCharacters(characterData))
-    }
+    // function fetchCharacters() {
+    //     fetch ('http://localhost:6001/characters')
+    //     .then(resp => resp.json())
+    //     .then(characterData => setCharacters(characterData))
+    // }
 
-    useEffect(fetchCharacters, []);
+    // useEffect(fetchCharacters, []);
   
     
    
@@ -22,10 +22,7 @@ function CharacterContainer() {
         <div id="character-container">     
                 <Search query={query} setQuery={setQuery}/>  
             <div className="cards">
-                <CharacterList query={query} setQuery={setQuery} characters={characters} setCharacters={setCharacters}/>
-            </div>
-            <div> 
-                <FavoritesList characters={characters} setCharacters={setCharacters}/>
+                <CharacterList query={query} setQuery={setQuery} characters={characters} setCharacters={setCharacters} selectedCharacter={selectedCharacter} setSelectedCharacter={setSelectedCharacter}/>
             </div>
         </div>
     );
