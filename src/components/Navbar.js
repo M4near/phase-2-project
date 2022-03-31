@@ -14,10 +14,10 @@ function Navbar() {
             <Link to="/favorites"><button className='button' id='favorites' >Favorites</button></Link>
             </div>
             <div id='rickRollContainer'>
-            <a href="https://www.youtube.com/watch?v=kgo-hVfmnfs"><button className='button' id='rickRoll' >Free $5 gift card!</button></a>
+            <a href="https://www.youtube.com/watch?v=kgo-hVfmnfs" target="_blank"><button className='button' id='rickRoll' >Free $5 gift card!</button></a>
             </div>
             <div id='characterCreatorContainer'>
-            <a href="https://www.dolldivine.com/sailor-moon-character-creator.php"><button className='button' id='creator' >Character Creator</button></a>
+            <a href="https://www.dolldivine.com/sailor-moon-character-creator.php" target="_blank"><button className='button' id='creator' >Character Creator</button></a>
             </div>
         </header>
     );    
